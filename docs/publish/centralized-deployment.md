@@ -12,7 +12,7 @@ The Office 365 admin center makes it easy for an administrator to deploy Office 
 The Office 365 admin center currently supports the following scenarios:
 
 - Centralized Deployment of new and updated add-ins to individuals, groups, or an organization.
-- Deployment to multiple platforms, including Windows and Office Online, with Mac coming soon.
+- Deployment to multiple platforms, including Windows and Office Online and Mac
 - Deployment to English language and worldwide tenants.
 - Deployment of cloud-hosted add-ins.
 - Deployment of add-ins that are hosted within a firewall.
